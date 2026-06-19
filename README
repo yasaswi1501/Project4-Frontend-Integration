@@ -1,0 +1,26 @@
+# Project 4 - Frontend Integration
+
+## Description
+React frontend integrated with Node.js + Express + MongoDB backend.
+
+## Features
+- Display students
+- Fetch data from API
+- React Hooks
+- Axios Integration
+
+## Technologies Used
+- React
+- Vite
+- Axios
+- JavaScript
+
+## Run Project
+
+npm install
+
+npm run dev
+
+## Backend API
+
+http://localhost:3000/api/students
